@@ -5,6 +5,8 @@ Apply the Huffman and Shannon-Fano to this source.
 Show that by drawing the tree diagram, and 
 Calculate the average code word length, entropy, variance, redundancy, and efficiency.
 # Tools Required:
+colab 
+
 # Program:
 ```
 import numpy as np
